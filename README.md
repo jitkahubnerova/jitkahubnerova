@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 -->
 ## I'm a woman, mother, developer, pianist and human!
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/hubnerova#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hubnerova#gh-dark-mode-only)
+[![website]](https://www.linkedin.com/in/hubnerova#gh-light-mode-only)
+[![website]](https://www.linkedin.com/in/hubnerova#gh-dark-mode-only)
 
 <br />
 <br /> 
