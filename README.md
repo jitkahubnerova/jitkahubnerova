@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 
 -->
 ## I'm a woman, mother, developer, pianist and human!
-### Connect with me:
-[![website]](https://www.linkedin.com/in/hubnerova#gh-light-mode-only)
-[![website]](https://www.linkedin.com/in/hubnerova#gh-dark-mode-only)
+### Connect with me: (https://www.linkedin.com/in/hubnerova#gh-light-mode-only)
+
 
 <br />
 <br /> 
