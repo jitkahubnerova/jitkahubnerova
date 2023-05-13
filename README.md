@@ -1,9 +1,9 @@
 ## Hi there. I'm a woman, mother, developer, pianist and human.
 ## About Me:
 - 👨‍💻 I'm a full-stack developer
-- 🌱 I use mainly .NET stack, but able to create SPAs in React too.
-- 🔭 I’m currently working on envita.cz
-- 💡 I am team player.
+- 🌱 I use mainly .NET stack, but able to create simple SPAs in React too.
+- 🔭 I’m currently working on beey.io, previously on desktop envita.cz
+- 💡 I am team player and mother.
 - 💬 Want to know more? Feel free to contact me!
 <br />
 <br />
