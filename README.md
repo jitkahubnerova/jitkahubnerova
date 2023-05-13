@@ -3,7 +3,7 @@
 - 👨‍💻 I'm a full-stack developer
 - 🌱 I use mainly .NET stack, but able to create simple SPAs in React too.
 - 🔭 I’m currently working on beey.io, previously on desktop envita.cz
-- 💡 I am team player and mother.
+- 💡 I am team player.
 - 💬 Want to know more? Feel free to contact me!
 <br />
 <br />
