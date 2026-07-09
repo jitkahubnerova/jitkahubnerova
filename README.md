@@ -6,7 +6,7 @@ for Czech healthcare, judiciary, and media.
 
 ## What I'm building
 
-- 🏥 **[MedSpeak](https://www.beey.io/)** — clinical platform for Czech healthcare. ASP.NET Core 10, React 19 + TypeScript, PostgreSQL 16, Kubernetes, ASR, LLM extraction, HL7 CDA / FHIR / DASTA exports 
+- 🏥 **[BeeyMedk](https://www.beey.io/)** — clinical platform for Czech healthcare. ASP.NET Core 10, React 19 + TypeScript, PostgreSQL 16, Kubernetes, ASR, LLM extraction, HL7 CDA / FHIR / DASTA exports 
 - 🎙️ **[Beey AI](https://beey.io)** — real-time speech-to-text ecosystem used by 40k+ users (Czech courts, Ministry of Justice, CNN Prima News, ČTK, other big EU customers).
 - 🎹 **[Kaleidoskok](https://kaleidoskok.cz)** — band, keyboard player.
 - 🎓 Previously 12+ years lecturing at Technical University of Liberec (distributed systems, algorithms, networking).
